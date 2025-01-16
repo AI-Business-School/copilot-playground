@@ -1,0 +1,26 @@
+{
+  "title": "StringFormatter",
+  "description": "Practice string manipulation operations",
+  "steps": [
+    {
+      "file": "Python/string_formatter.py",
+      "line": 1,
+      "description": "Overview: This exercise covers various string manipulation techniques."
+    },
+    {
+      "file": "Python/string_formatter.py",
+      "line": 6,
+      "description": "Function #1: alternate_case converts text to alternating case format."
+    },
+    {
+      "file": "Python/string_formatter.py",
+      "line": 16,
+      "description": "Function #2: count_vowels_consonants analyzes character types in text."
+    },
+    {
+      "file": "Python/string_formatter.py",
+      "line": 29,
+      "description": "Function #3: extract_numbers pulls out numerical values from text."
+    }
+  ]
+}

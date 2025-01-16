@@ -1,0 +1,26 @@
+{
+  "title": "APIClient",
+  "description": "A tour explaining the key components of our API client implementation",
+  "steps": [
+    {
+      "file": "Python/api_client.py",
+      "line": 1,
+      "description": "Our API client module that provides functions for interacting with a REST API."
+    },
+    {
+      "file": "Python/api_client.py",
+      "line": 7,
+      "description": "The get_user_data function fetches user information from the API based on a user ID. This demonstrates handling GET requests and response processing."
+    },
+    {
+      "file": "Python/api_client.py",
+      "line": 10,
+      "description": "The create_resource function shows how to send POST requests to create new resources on the API. This includes handling request bodies and response validation."
+    },
+    {
+      "file": "Python/api_client.py",
+      "line": 13,
+      "description": "The handle_api_errors function implements error handling for API responses, including status code checking and error message processing."
+    }
+  ]
+}

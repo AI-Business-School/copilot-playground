@@ -14,5 +14,4 @@ user = {
 def create_user(json):
 
 #TODO: create a function that takes in a User class and returns a json
-def jsonify_user(user):
-    
+def jsonify_user(user):    

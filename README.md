@@ -1,15 +1,52 @@
-# Lorem Ipsum
+# GitHub Copilot Programming Exercises
 
-## Introduction
+A collection of Python programming exercises designed to help you learn and practice with GitHub Copilot.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Exercises
 
-## Usage
+This repository contains the following exercises:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. **API Client** - Practice building REST API clients
 
-To start a demo using Code Tours, click "CODETOUR" in the bottom left corner, hover over an option, and press the arrow to start!
+   - GET/POST requests
+   - Error handling
+   - Response processing
 
-## Conclusion
+2. **Array Operations** - Implement common array manipulation tasks
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+   - Finding even numbers
+   - Calculating averages
+   - Finding min/max values
+
+3. **String Formatter** - Learn string manipulation techniques
+
+   - Case conversion
+   - Character counting
+   - Number extraction
+
+4. **File Handler** - Work with file operations
+   - Word counting
+   - JSON file handling
+   - File merging
+
+## Getting Started
+
+1. Clone this repository
+2. Install the CodeTour VS Code extension
+3. Open the project in VS Code
+4. Navigate to the Explorer view
+5. Look for the CodeTour panel at the bottom
+
+## Using Code Tours
+
+Each exercise includes a guided tour that will walk you through:
+
+- Exercise requirements
+- Implementation tasks
+- Expected outcomes
+
+To start a tour:
+
+1. Click on the CodeTour panel
+2. Select an exercise tour
+3. Follow the step-by-step instructions

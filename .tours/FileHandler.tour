@@ -1,0 +1,26 @@
+{
+  "title": "FileHandler",
+  "description": "Learn file operations in Python",
+  "steps": [
+    {
+      "file": "Python/file_handler.py",
+      "line": 1,
+      "description": "Overview: Practice implementing common file operations in Python."
+    },
+    {
+      "file": "Python/file_handler.py",
+      "line": 5,
+      "description": "Function #1: count_words reads a file and tracks word frequencies."
+    },
+    {
+      "file": "Python/file_handler.py",
+      "line": 17,
+      "description": "Function #2: write_to_json demonstrates JSON file writing operations."
+    },
+    {
+      "file": "Python/file_handler.py",
+      "line": 23,
+      "description": "Function #3: merge_files combines content from multiple files."
+    }
+  ]
+}
