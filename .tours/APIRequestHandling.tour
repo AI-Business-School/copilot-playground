@@ -1,0 +1,42 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "APIRequestHandling",
+  "steps": [
+    {
+      "file": "intermediate/APIRequestHandling/api_request_handling.py",
+      "description": "Welcome to your GitHub Copilot tour! Let's get started by learning to handle API requests using Python and GitHub Copilot! \n\nPress Next to continue 👇! ",
+      "line": 1,
+      "contents": ""
+    },
+    {
+      "file": "intermediate/APIRequestHandling/api_request_handling.py",
+      "description": "Press __ENTER__ at the end of line 5. You should see a suggestion given by Copilot. Lets accept the Copilot suggestion by pressing __TAB__!\n\nPress Next to continue 👇! ",
+      "line": 5,
+      "contents": ""
+    },
+    {
+      "file": "intermediate/APIRequestHandling/api_request_handling.py",
+      "description": "Press __ENTER__ at the end of line 12. You should see a suggestion given by Copilot. Lets accept the Copilot suggestion by pressing __TAB__!\n\nPress Next to continue 👇! ",
+      "line": 12,
+      "contents": ""
+    },
+    {
+      "file": "intermediate/APIRequestHandling/api_request_handling.py",
+      "description": "Press __ENTER__ at the end of line 19. You should see a suggestion given by Copilot. Lets accept the Copilot suggestion by pressing __TAB__!\n\nPress Next to continue 👇! ",
+      "line": 19,
+      "contents": ""
+    },
+    {
+      "file": "intermediate/APIRequestHandling/api_request_handling.py",
+      "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your api_request_handling.py file. It should send a GET request and a POST request. \n\n>> python3 api_request_handling.py\n\nMission complete! You've used GitHub Copilot to handle API requests!",
+      "line": 30,
+      "contents": ""
+    },
+    {
+      "file": "intermediate/APIRequestHandling/api_request_handling.py",
+      "description": "Thank you for trying out the GitHub Copilot API Request Handling demo! Try a few different API endpoints of your own! If you would like to sign up for Copilot visit here: https://github.com/features/copilot#pricing",
+      "line": 31,
+      "contents": ""
+    }
+  ]
+}

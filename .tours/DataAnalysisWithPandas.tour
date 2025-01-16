@@ -1,0 +1,42 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "DataAnalysisWithPandas",
+  "steps": [
+    {
+      "file": "intermediate/DataAnalysisWithPandas/data_analysis_with_pandas.py",
+      "description": "Welcome to your GitHub Copilot tour! Let's get started by learning to perform data analysis with Pandas using Python and GitHub Copilot! \n\nPress Next to continue 👇! ",
+      "line": 1,
+      "contents": ""
+    },
+    {
+      "file": "intermediate/DataAnalysisWithPandas/data_analysis_with_pandas.py",
+      "description": "Press __ENTER__ at the end of line 6. You should see a suggestion given by Copilot. Lets accept the Copilot suggestion by pressing __TAB__!\n\nPress Next to continue 👇! ",
+      "line": 6,
+      "contents": ""
+    },
+    {
+      "file": "intermediate/DataAnalysisWithPandas/data_analysis_with_pandas.py",
+      "description": "Press __ENTER__ at the end of line 12. You should see a suggestion given by Copilot. Lets accept the Copilot suggestion by pressing __TAB__!\n\nPress Next to continue 👇! ",
+      "line": 12,
+      "contents": ""
+    },
+    {
+      "file": "intermediate/DataAnalysisWithPandas/data_analysis_with_pandas.py",
+      "description": "Press __ENTER__ at the end of line 18. You should see a suggestion given by Copilot. Lets accept the Copilot suggestion by pressing __TAB__!\n\nPress Next to continue 👇! ",
+      "line": 18,
+      "contents": ""
+    },
+    {
+      "file": "intermediate/DataAnalysisWithPandas/data_analysis_with_pandas.py",
+      "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your data_analysis_with_pandas.py file. It should load, analyze, and visualize the data. \n\n>> python3 data_analysis_with_pandas.py\n\nMission complete! You've used GitHub Copilot to perform data analysis with Pandas!",
+      "line": 30,
+      "contents": ""
+    },
+    {
+      "file": "intermediate/DataAnalysisWithPandas/data_analysis_with_pandas.py",
+      "description": "Thank you for trying out the GitHub Copilot Data Analysis with Pandas demo! Try a few different datasets of your own! If you would like to sign up for Copilot visit here: https://github.com/features/copilot#pricing",
+      "line": 31,
+      "contents": ""
+    }
+  ]
+}
