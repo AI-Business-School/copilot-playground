@@ -1,0 +1,27 @@
+
+{
+  "title": "JSJsonToUser",
+  "description": "Practice JSON and class conversion in JavaScript",
+  "steps": [
+    {
+      "file": "Javascript/json_to_user.js",
+      "line": 1,
+      "description": "Overview: Learn how to work with classes and JSON serialization in JavaScript."
+    },
+    {
+      "file": "Javascript/json_to_user.js",
+      "line": 4,
+      "description": "Class definition: The User class with a constructor for object initialization."
+    },
+    {
+      "file": "Javascript/json_to_user.js",
+      "line": 17,
+      "description": "Function #1: createUser demonstrates JSON parsing and object instantiation."
+    },
+    {
+      "file": "Javascript/json_to_user.js",
+      "line": 22,
+      "description": "Function #2: jsonifyUser shows how to convert objects to JSON strings."
+    }
+  ]
+}

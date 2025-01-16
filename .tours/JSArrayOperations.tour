@@ -1,0 +1,27 @@
+
+{
+  "title": "JSArrayOperations",
+  "description": "Learn common array manipulation operations in JavaScript",
+  "steps": [
+    {
+      "file": "Javascript/array_operations.js",
+      "line": 1,
+      "description": "Overview: Practice implementing common array operations using JavaScript array methods."
+    },
+    {
+      "file": "Javascript/array_operations.js",
+      "line": 7,
+      "description": "Function #1: findEvenNumbers uses array.filter() to get even numbers."
+    },
+    {
+      "file": "Javascript/array_operations.js",
+      "line": 12,
+      "description": "Function #2: calculateAverage uses array.reduce() to compute the mean value."
+    },
+    {
+      "file": "Javascript/array_operations.js",
+      "line": 17,
+      "description": "Function #3: findMinMax uses Math.min() and Math.max() with spread operator."
+    }
+  ]
+}
