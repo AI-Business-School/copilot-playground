@@ -1,52 +1,41 @@
-# GitHub Copilot Programming Exercises
+# GitHub Copilot Playground
 
-A collection of Python programming exercises designed to help you learn and practice with GitHub Copilot.
-
-## Exercises
-
-This repository contains the following exercises:
-
-1. **API Client** - Practice building REST API clients
-
-   - GET/POST requests
-   - Error handling
-   - Response processing
-
-2. **Array Operations** - Implement common array manipulation tasks
-
-   - Finding even numbers
-   - Calculating averages
-   - Finding min/max values
-
-3. **String Formatter** - Learn string manipulation techniques
-
-   - Case conversion
-   - Character counting
-   - Number extraction
-
-4. **File Handler** - Work with file operations
-   - Word counting
-   - JSON file handling
-   - File merging
+Welcome to the GitHub Copilot Playground by AI Business School. GitHub Copilot Playground is an interactive, guided platform designed for users to explore the full range of capabilities of GitHub Copilot.
 
 ## Getting Started
 
-1. Clone this repository
-2. Install the CodeTour VS Code extension
-3. Open the project in VS Code
-4. Navigate to the Explorer view
-5. Look for the CodeTour panel at the bottom
+1. Launch the Codespace environment
+2. Wait for the environment to be fully configured
+3. Access VS Code Online interface
+4. Start exploring with pre-installed Copilot
 
 ## Using Code Tours
 
-Each exercise includes a guided tour that will walk you through:
+Each tour provides hands-on experience with specific GitHub Copilot features:
 
-- Exercise requirements
-- Implementation tasks
-- Expected outcomes
+1. Select a tour from the CodeTour panel
+2. Follow the interactive instructions
+3. Experience Copilot's capabilities in real-world scenarios
+4. Get instant feedback on your progress
 
-To start a tour:
+## Core Features
 
-1. Click on the CodeTour panel
-2. Select an exercise tour
-3. Follow the step-by-step instructions
+1. **Pre-Configured Development Environment**
+
+   - Powered by GitHub Codespaces for a fully managed, cloud-based environment
+   - Microsoft Visual Studio Code Online interface
+   - Pre-installed and configured GitHub Copilot extension
+
+2. **Interactive Code Tours**
+
+   - Context-aware code autocompletion
+   - Generating boilerplate code and complex algorithms
+   - Refactoring existing code
+   - Generating documentation and comments
+   - Seamlessly integrated with Codespaces
+
+3. **Scenario-Based Challenges**
+   - Algorithmic problem solving
+   - Unit test writing and optimization
+   - Framework-specific development (React, etc.)
+   - Real-time feedback on Copilot's contributions
