@@ -1,0 +1,42 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "MachineLearningModelTraining",
+  "steps": [
+    {
+      "file": "machine_learning_model_training.py",
+      "description": "Welcome to your GitHub Copilot tour! Let's get started by learning to train a machine learning model using Python and GitHub Copilot! \n\nPress Next to continue 👇! ",
+      "line": 1,
+      "contents": ""
+    },
+    {
+      "file": "machine_learning_model_training.py",
+      "description": "Press __ENTER__ at the end of line 10. You should see a suggestion given by Copilot. Lets accept the Copilot suggestion by pressing __TAB__!\n\nPress Next to continue 👇! ",
+      "line": 10,
+      "contents": ""
+    },
+    {
+      "file": "machine_learning_model_training.py",
+      "description": "Press __ENTER__ at the end of line 20. You should see a suggestion given by Copilot. Lets accept the Copilot suggestion by pressing __TAB__!\n\nPress Next to continue 👇! ",
+      "line": 20,
+      "contents": ""
+    },
+    {
+      "file": "machine_learning_model_training.py",
+      "description": "Press __ENTER__ at the end of line 30. You should see a suggestion given by Copilot. Lets accept the Copilot suggestion by pressing __TAB__!\n\nPress Next to continue 👇! ",
+      "line": 30,
+      "contents": ""
+    },
+    {
+      "file": "machine_learning_model_training.py",
+      "description": "Let's run the code to see if it works. Click the follow hyperlink to execute your machine_learning_model_training.py file. It should preprocess the data, train the model, and evaluate the model. \n\n>> python3 machine_learning_model_training.py\n\nMission complete! You've used GitHub Copilot to train a machine learning model!",
+      "line": 40,
+      "contents": ""
+    },
+    {
+      "file": "machine_learning_model_training.py",
+      "description": "Thank you for trying out the GitHub Copilot Machine Learning Model Training demo! Try a few different datasets of your own! If you would like to sign up for Copilot visit here: https://github.com/features/copilot#pricing",
+      "line": 41,
+      "contents": ""
+    }
+  ]
+}
