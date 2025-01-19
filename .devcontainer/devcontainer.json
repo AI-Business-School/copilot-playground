@@ -6,11 +6,21 @@
   "name": "Try Copilot",
   "postCreateCommand": "sudo cp --force ./.devcontainer/welcome-message.txt /usr/local/etc/vscode-dev-containers/first-run-notice.txt",
   "customizations": {
-      "vscode": {
+    "vscode": {
       "extensions": [
         "github.copilot",
         "vsls-contrib.codetour",
         "ms-python.python"
-      ]}
+      ]
+    },
+    "codespaces": {
+      "repositories": {
+        "AI-Business-School/workflows": {
+          "permissions": {
+            "issues": "read"
+          }
+        }
+      }
+    }
   }
 }
