@@ -17,7 +17,12 @@
       "repositories": {
         "AI-Business-School/workflows": {
           "permissions": {
-            "issues": "read"
+            "read": true
+          }
+        },
+        "AI-Business-School/copilot-playground": {
+          "permissions": {
+            "read": true
           }
         }
       }
