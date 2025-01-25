@@ -1,6 +1,8 @@
 # GitHub Copilot Playground
 
-Welcome to the GitHub Copilot Playground! This interactive platform demonstrates various GitHub Copilot capabilities through practical examples and challenges in both JavaScript and Python.
+Welcome to the GitHub Copilot Playground prepared by AI Business School! This interactive platform demonstrates various GitHub Copilot capabilities through practical examples and challenges in both JavaScript and Python.
+
+![Logo](assets/logo.png)
 
 ## 🚀 Topics & Examples
 
