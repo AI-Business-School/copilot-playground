@@ -1,8 +1,9 @@
 """
 Exercise: Microservices Architecture Analysis and Documentation
 
-Context:
-Below is a complex microservices-based e-commerce system implementation.
+Prompt:
+
+"Below is a complex microservices-based e-commerce system implementation.
 The task is to analyze and provide comprehensive documentation for this architecture.
 
 class OrderService:
@@ -66,6 +67,7 @@ Documentation Requirements:
    - Resilience patterns
    - Monitoring considerations
    - Security implications
+"
 
 Compare how each AI model:
 - Explains technical concepts

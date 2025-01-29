@@ -1,8 +1,8 @@
 """
 Exercise: Advanced Mathematical Optimization and Analysis
 
-Problem Statement:
-Develop a system that solves complex mathematical optimization problems in finance
+Prompt:
+"Develop a system that solves complex mathematical optimization problems in finance
 and provides detailed mathematical analysis with visualizations.
 
 Task 1: Portfolio Optimization
@@ -57,6 +57,7 @@ Requirements:
    - Time series decomposition
    - Risk attribution charts
    - Correlation matrices
+"
 
 Compare how each AI model:
 - Understands mathematical concepts

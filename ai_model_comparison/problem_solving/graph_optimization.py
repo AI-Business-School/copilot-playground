@@ -1,8 +1,9 @@
 """
 Exercise: Network Resource Optimization Problem
 
-Problem Statement:
-You are tasked with designing a system to optimize resource allocation in a distributed network.
+Promptt:
+
+"You are tasked with designing a system to optimize resource allocation in a distributed network.
 The network is represented as a weighted directed graph where:
 - Nodes represent computing resources
 - Edges represent communication channels
@@ -34,7 +35,7 @@ Requirements:
    - Space complexity analysis
    - Scalability considerations
    - Trade-off discussions
-
+"
 Compare how each AI model:
 - Approaches problem decomposition
 - Considers different algorithms and their trade-offs

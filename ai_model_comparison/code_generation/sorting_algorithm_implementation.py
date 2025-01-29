@@ -1,8 +1,9 @@
 """
 Exercise: Advanced Sorting Algorithm Implementation
 
-Task:
-Implement a hybrid sorting algorithm that combines the benefits of Quick Sort and Merge Sort.
+Prompt:
+
+"Implement a hybrid sorting algorithm that combines the benefits of Quick Sort and Merge Sort.
 The algorithm should automatically choose the best sorting strategy based on the input size and characteristics.
 
 Requirements:
@@ -31,6 +32,7 @@ Requirements:
    - Test with different data types
    - Test edge cases
    - Benchmark performance
+"
 
 Compare how each AI model:
 - Structures the solution
