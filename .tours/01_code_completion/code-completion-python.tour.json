@@ -1,0 +1,21 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Python Code Completion Exercises with GitHub Copilot",
+  "steps": [
+    {
+      "file": "challenges/01_code_completion/code_completion.py",
+      "description": "# Find Maximum Value\n\nTry these Copilot techniques:\n1. Write a descriptive comment explaining the function\n2. Add Python type hints\n3. Include example usage in docstring\n4. Use `# -->` to indicate expected output",
+      "line": 11
+    },
+    {
+      "file": "challenges/01_code_completion/code_completion.py",
+      "description": "# Find Duplicates\n\nExperiment with Copilot:\n1. Start with just the function signature\n2. Add gradually more detailed comments\n3. Compare different implementation suggestions\n4. Use inline comments to guide the implementation",
+      "line": 15
+    },
+    {
+      "file": "challenges/01_code_completion/code_completion.py",
+      "description": "# Group By Key\n\nCopilot optimization techniques:\n1. Write example input/output in comments\n2. Use type hints for complex structures\n3. Break down the problem in comments\n4. Try alternative implementations with Ctrl+Enter",
+      "line": 20
+    }
+  ]
+}

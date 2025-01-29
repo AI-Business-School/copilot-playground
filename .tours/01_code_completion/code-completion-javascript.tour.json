@@ -1,0 +1,21 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "JavaScript Code Completion Exercises with GitHub Copilot",
+  "steps": [
+    {
+      "file": "challenges/01_code_completion/code_completion.js",
+      "description": "# JavaScript Find Maximum Value\n\nCopilot techniques:\n1. Add JSDoc comments with @param and @returns\n2. Include example usage\n3. Try different array methods\n4. Use comments to guide optimization",
+      "line": 5
+    },
+    {
+      "file": "challenges/01_code_completion/code_completion.js",
+      "description": "# JavaScript Find Duplicates\n\nExplore Copilot features:\n1. Start with simple implementation\n2. Add performance requirements in comments\n3. Request alternative solutions\n4. Compare Set vs Array methods",
+      "line": 9
+    },
+    {
+      "file": "challenges/01_code_completion/code_completion.js",
+      "description": "# JavaScript Group By Property\n\nLeverage Copilot by:\n1. Writing clear function description\n2. Adding example input objects\n3. Using step-by-step comments\n4. Testing different implementations",
+      "line": 13
+    }
+  ]
+}
