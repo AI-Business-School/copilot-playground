@@ -1,9 +1,9 @@
 {
   "$schema": "https://aka.ms/codetour-schema",
-  "title": "Python Code Completion Exercises with GitHub Copilot",
+  "title": "Python Comment to Code Exercises with GitHub Copilot",
   "steps": [
     {
-      "description": "## Welcome to the Python Code Completion Exercises with GitHub Copilot!\n\nIn this tour, you will learn how to use GitHub Copilot to complete partial implementations, write guiding code, and explore different implementation variations for common algorithms. Follow the steps and guidelines to get the most out of this experience.",
+      "description": "## Welcome to the Python Comment to Code Exercises with GitHub Copilot!\n\nIn this tour, you will learn how to use GitHub Copilot to complete partial implementations, write guiding code, and explore different implementation variations for common algorithms. Follow the steps and guidelines to get the most out of this experience.",
       "file": "challenges/01_code_completion/code_completion.py",
       "line": 1
     },
