@@ -1,7 +1,7 @@
 """
 Exercise: Security-Critical Code Review
 
-Code for Review:
+Prompt:
 The following code implements a user authentication system with JWT tokens.
 Review it for security issues, best practices, and potential improvements.
 

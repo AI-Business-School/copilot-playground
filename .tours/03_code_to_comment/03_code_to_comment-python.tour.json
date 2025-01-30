@@ -1,0 +1,16 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Python Code to Comment Exercises with GitHub Copilot",
+  "steps": [
+    {
+      "description": "## Welcome to the Python Code to Comment Exercises with GitHub Copilot!\n\nIn this tour, you will learn how to use GitHub Copilot to generate meaningful comments for existing code. Follow the steps and guidelines to get the most out of this experience.",
+      "file": "challenges/03_code_to_comment/code_to_comment.js",
+      "line": 1
+    },
+    {
+      "file": "challenges/03_code_to_comment/code_to_comment.js",
+      "description": "1. Use the \"Edit with Copilot\" feature on the right.\n2. Add the you would like to edit if not already present.\n3. Write the following prompt in the chat section of  Edit with Copilot: \"Generate comments for this file\"\n4. Observe and review the suggestions provided by Copilot.\n5. Select the most appropriate suggestion or modify it as needed.",
+      "line": 2
+    }
+  ]
+}
