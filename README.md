@@ -109,27 +109,6 @@ Five specialized categories to compare AI model capabilities:
    - Combine different approaches
    - Create custom exercises
 
-## 🛠️ Setup Instructions
-
-1. **Environment Setup**
-
-   ```bash
-   # Clone the repository
-   git clone https://github.com/AI-Business-School/copilot-playground.git
-   cd copilot-playground
-   ```
-
-2. **IDE Configuration**
-
-   - Install GitHub Copilot extension
-   - Configure your preferred IDE
-   - Review exercise guidelines
-
-3. **Start Coding**
-   - Choose a challenge category
-   - Follow the exercise guidelines
-   - Experiment with different approaches
-
 ## 📚 Resources
 
 - [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
